@@ -9,3 +9,8 @@ env
 env/*
 */env
 .env
+
+# DB/Data
+*.db
+data/books
+data/books/*
